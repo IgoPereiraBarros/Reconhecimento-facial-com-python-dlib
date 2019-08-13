@@ -1,0 +1,14 @@
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/CMakeFiles/install/strip.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/CMakeFiles/edit_cache.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/CMakeFiles/imglab.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/CMakeFiles/list_install_components.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/CMakeFiles/install/local.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/CMakeFiles/rebuild_cache.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/CMakeFiles/install.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/install/strip.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/edit_cache.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/dlib.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/list_install_components.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/install/local.dir
+/home/igobarros/Documents/Reconheciment0_facial_com_python_dlib/materials/dlib-19.17/tools/imglab/build/dlib_build/CMakeFiles/install.dir

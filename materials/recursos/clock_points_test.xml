@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='../relogios_teste2/relogio1.jpg'>
+    <box top='58' left='9' width='295' height='299'>
+      <part name='1' x='155' y='207'/>
+      <part name='2' x='157' y='91'/>
+      <part name='3' x='258' y='153'/>
+      <part name='4' x='258' y='267'/>
+      <part name='5' x='156' y='322'/>
+      <part name='6' x='52' y='266'/>
+      <part name='7' x='35' y='195'/>
+      <part name='8' x='65' y='124'/>
+    </box>
+  </image>
+  <image file='../relogios_teste2/relogio2.jpg'>
+    <box top='64' left='75' width='374' height='276'>
+      <part name='1' x='260' y='202'/>
+      <part name='2' x='258' y='95'/>
+      <part name='3' x='384' y='120'/>
+      <part name='4' x='382' y='275'/>
+      <part name='5' x='263' y='302'/>
+      <part name='6' x='137' y='272'/>
+      <part name='7' x='111' y='197'/>
+      <part name='8' x='152' y='109'/>
+    </box>
+  </image>
+  <image file='../relogios_teste2/relogio3.jpg'>
+    <box top='39' left='36' width='276' height='273'>
+      <part name='1' x='175' y='173'/>
+      <part name='2' x='175' y='60'/>
+      <part name='3' x='279' y='115'/>
+      <part name='4' x='279' y='233'/>
+      <part name='5' x='174' y='291'/>
+      <part name='6' x='70' y='233'/>
+      <part name='7' x='59' y='153'/>
+      <part name='8' x='92' y='85'/>
+    </box>
+  </image>
+  <image file='../relogios_teste2/relogio4.jpg'>
+    <box top='17' left='17' width='447' height='446'>
+      <part name='1' x='239' y='236'/>
+      <part name='2' x='239' y='37'/>
+      <part name='3' x='416' y='143'/>
+      <part name='4' x='410' y='340'/>
+      <part name='5' x='239' y='441'/>
+      <part name='6' x='64' y='340'/>
+      <part name='7' x='38' y='206'/>
+      <part name='8' x='102' y='83'/>
+    </box>
+  </image>
+</images>
+</dataset>

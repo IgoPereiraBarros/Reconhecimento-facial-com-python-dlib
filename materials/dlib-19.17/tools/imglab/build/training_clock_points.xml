@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='relogios_treinamento/relogio1.jpg'>
+    <box top='387' left='402' width='160' height='159'>
+      <part name='1' x='478' y='464'/>
+      <part name='2' x='484' y='411'/>
+      <part name='3' x='530' y='440'/>
+      <part name='4' x='526' y='492'/>
+      <part name='5' x='476' y='518'/>
+      <part name='6' x='428' y='489'/>
+      <part name='7' x='420' y='453'/>
+      <part name='8' x='441' y='426'/>
+    </box>
+  </image>
+  <image file='relogios_treinamento/relogio2.jpg'>
+    <box top='276' left='234' width='240' height='216'>
+      <part name='1' x='355' y='382'/>
+      <part name='2' x='353' y='314'/>
+      <part name='3' x='424' y='352'/>
+      <part name='4' x='422' y='429'/>
+      <part name='5' x='353' y='462'/>
+      <part name='6' x='274' y='418'/>
+      <part name='7' x='266' y='371'/>
+      <part name='8' x='292' y='330'/>
+    </box>
+  </image>
+  <image file='relogios_treinamento/relogio3.jpg'>
+    <box top='250' left='349' width='272' height='271'>
+      <part name='1' x='487' y='386'/>
+      <part name='2' x='486' y='283'/>
+      <part name='3' x='571' y='335'/>
+      <part name='4' x='570' y='439'/>
+      <part name='5' x='482' y='481'/>
+      <part name='6' x='395' y='432'/>
+      <part name='7' x='387' y='368'/>
+      <part name='8' x='417' y='317'/>
+    </box>
+  </image>
+  <image file='relogios_treinamento/relogio4.jpg'>
+    <box top='331' left='452' width='112' height='99'>
+      <part name='1' x='508' y='381'/>
+      <part name='2' x='502' y='350'/>
+      <part name='3' x='537' y='364'/>
+      <part name='4' x='540' y='401'/>
+      <part name='5' x='507' y='411'/>
+      <part name='6' x='475' y='394'/>
+      <part name='7' x='471' y='372'/>
+      <part name='8' x='477' y='355'/>
+    </box>
+  </image>
+  <image file='relogios_treinamento/relogio5.jpg'>
+    <box top='149' left='200' width='241' height='238'>
+      <part name='1' x='319' y='263'/>
+      <part name='2' x='318' y='181'/>
+      <part name='3' x='395' y='221'/>
+      <part name='4' x='395' y='307'/>
+      <part name='5' x='320' y='348'/>
+      <part name='6' x='241' y='304'/>
+      <part name='7' x='225' y='253'/>
+      <part name='8' x='252' y='200'/>
+    </box>
+  </image>
+</images>
+</dataset>
